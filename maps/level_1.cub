@@ -1,0 +1,15 @@
+
+F 0,0,0
+C 0,0,0
+
+NO ./assets/cat/albanie.xpm
+SO ./assets/cat/albanie.xpm
+WE ./assets/cat/chuck.xpm
+EA ./assets/cat/chuck.xpm
+
+1111111111111
+1000000000111
+1111D11111111
+1011001000111
+10010E000X001
+1111111111111
