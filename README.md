@@ -17,8 +17,8 @@ Be carefull, some levels can be quite challenging.. But wounded ennemies have di
 ## Game screeshots
 
 At launch:
-![image](https://github.com/willrsq1/cub3d/assets/117649637/b9486d67-831c-4a0c-9d09-ec7961efa1d1)
 ![image](https://github.com/willrsq1/cub3d/assets/117649637/7a0ee485-3f9c-4dc3-af9c-dde976419012)
+![image](https://github.com/willrsq1/cub3d/assets/117649637/b9486d67-831c-4a0c-9d09-ec7961efa1d1)
 
 First level:
 ![image](https://github.com/willrsq1/cub3d/assets/117649637/c1515ecb-687e-40ae-b0c8-cfba8d469af8)
